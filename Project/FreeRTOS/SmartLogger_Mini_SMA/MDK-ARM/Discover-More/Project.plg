@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Data\MyProject\Intelenics\int-sma\PWA_SL\Project\FreeRTOS\SmartLogger_Mini_SMA\MDK-ARM\Project.uvproj
+Project File Date:  11/10/2015
+
+<h2>Output:</h2>
+Load "C:\\Data\\MyProject\\Intelenics\\int-sma\\PWA_SL\\Project\\FreeRTOS\\SmartLogger_Mini_SMA\\MDK-ARM\\Discover-More\\Project.axf" 
+Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
